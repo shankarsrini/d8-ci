@@ -1,4 +1,4 @@
-# CircleCI sample integration with Drupal 8
+# CircleCI sample integration with Drupal 8.9
 
 [![CircleCI](https://circleci.com/gh/juampynr/drupal8-circleci.svg?style=svg)](https://circleci.com/gh/juampynr/drupal8-circleci)
 
